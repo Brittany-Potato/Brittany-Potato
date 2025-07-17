@@ -9,3 +9,6 @@ I’m also curious about cybersecurity and game development — both fascinate m
 Currently sharpening my Python skills and diving deeper into backend development, I’m looking for opportunities that combine creativity with real-world problem-solving — especially in AI or security.
 
 Let’s build something clever together.
+
+
+A HUGE shoutout to my dev friends I have met along my journey so far!! Realist2022 · muddyducky · benthuralot · FootNuggets22 · zetapow · TLopati · SethSamuelCode · takashim0101 · solo258 · Wisonytq · robwynyard · AdamT-HJ · Brittany-Potato · Eule034430 · LuCinemax · Kent-Wharerau
