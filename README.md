@@ -1,6 +1,6 @@
 # ~~ About Me ~~
 
-I'm a software developer in training with Mission Ready HQ, currently working through Level 5 after earning my Level 4 Full Stack Development certification.
+I'm a software developer in training with Mission Ready HQ, currently almost completed my level 6 Diploma of Advanced AI powered FullStack Development. CUrrently participating in an internship with PolicyCheck.
 
 I’m passionate about the world of AI and always exploring how tech can be used to build smarter, more helpful systems. I’ve worked on generative AI-powered Discord and Twitch bots, built a CLI assistant, and developed various web tools using JavaScript, React, Node.js, and MongoDB.
 
