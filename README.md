@@ -1,14 +1,8 @@
 # ~~ About Me ~~
 
-I'm a software developer in training with Mission Ready HQ, currently almost completed my level 6 Diploma of Advanced AI powered FullStack Development. Currently participating in an internship with PolicyCheck.
+Level 6 Diploma in Advanced Full-Stack Software Development. I have an eye for creative solutions and a strong drive to learn and grow. I am mainly interested in AI, Cyber Security, Networking and brushing a bit of game develpment. I have quite a few different personal projects I dabble with including a JavaScript 'Dictionary', Python 'Dictionary, the start of a 'C#' Dictionary and my website, plus a few hidden projects.
 
-I’m passionate about the world of AI and always exploring how tech can be used to build smarter, more helpful systems. I’ve worked on generative AI-powered Discord and Twitch bots, built a CLI assistant, and developed various web tools using JavaScript, React, Node.js, and MongoDB.
-
-I’m also curious about cybersecurity and game development — both fascinate me for the challenges and creativity they bring.
-
-Currently sharpening my Python skills and diving deeper into backend development, I’m looking for opportunities that combine creativity with real-world problem-solving — especially in AI or security.
-
-Let’s build something clever together.
+I am familiar with JavaScript, I am also self teaching Python and a littel bit of C# and TypeScript. If you want to build something together just holla! I would love some new projects, challenges and a chance to collaborate!
 
 
 A HUGE shoutout to my dev friends I have met along my journey so far!! Realist2022 · muddyducky · benthuralot · FootNuggets22 · zetapow · TLopati · SethSamuelCode · takashim0101 · solo258 · Wisonytq · robwynyard · AdamT-HJ · Brittany-Potato · Eule034430 · LuCinemax · Kent-Wharerau
